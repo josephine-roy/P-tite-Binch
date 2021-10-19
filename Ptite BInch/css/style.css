@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Crafty+Girls|Lora");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'Lora' , serif;
+	font-size: 18px;
+	color: rgba(50,50,50,0.9);
+}
+
+h1,h2,h3 {
+	font-family: 'Crafty Girls', cursive;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
